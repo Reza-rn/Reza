@@ -7,21 +7,14 @@ I am proficient in machine learning and deep learning algorithms, and model depl
 Some of my projects below 👇🏻 are focused on machine learning algorithms and optimization method for various applications mainly developed on Python. Also, I have some small sample codes for computer science algorithms and data sctrutures which I really enjoy developing them.
 
 Skills:<br>
-• Strong programming skills in Python, C, and C++
-
-• Proficient in machine learning and deep learning libraries such as Keras, TensorFlow, and Scikit-learn
-
-• Deep learning architectures: Recurrent Neural Networks, Convolutional Neural Networks, Transformers model
-
-• Experienced in working with NumPy, Pandas, SQL, Git, Gurobi, CPLEX, and MATLAB/SIMULINK
-
-• Experienced with regression models, classification models, clustering algorithms, and Time series analysis
-
-• Proficient in various optimization methods including linear, convex, mixed-integer, and distributed optimization
-
-• Experienced in developing data structures and algorithms
-
-• Strong problem-solving and analytical skills
+• Strong programming skills in Python, C, and C++ <br>
+• Proficient in machine learning and deep learning libraries such as Keras, TensorFlow, and Scikit-learn <br>
+• Deep learning architectures: Recurrent Neural Networks, Convolutional Neural Networks, Transformers model <br>
+• Experienced in working with NumPy, Pandas, SQL, Git, Gurobi, CPLEX, and MATLAB/SIMULINK <br>
+• Experienced with regression models, classification models, clustering algorithms, and Time series analysis <br>
+• Proficient in various optimization methods including linear, convex, mixed-integer, and distributed optimization <br>
+• Experienced in developing data structures and algorithms <br>
+• Strong problem-solving and analytical skills <br>
 
 ### Getting in touch
 
