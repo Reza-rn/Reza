@@ -6,8 +6,7 @@ I am proficient in machine learning and deep learning algorithms, and model depl
 
 Some of my projects below 👇🏻 are focused on machine learning algorithms and optimization method for various applications mainly developed on Python. Also, I have some small sample codes for computer science algorithms and data sctrutures which I really enjoy developing them.
 
-Skills:
-
+Skills:<br>
 • Strong programming skills in Python, C, and C++
 
 • Proficient in machine learning and deep learning libraries such as Keras, TensorFlow, and Scikit-learn
