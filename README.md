@@ -1,4 +1,4 @@
-### Hi there! 👋  (Under Construction)
+### Hi there! 👋
 
 I'm Reza. I am sinor software and algorithm developer especially for energy systems. I am very interested on developing various machine learning algorithms especially deep learning and optimization techniques to apply them on various problems mainly in energy systems specifically for smart grid technologies to enhance the operation and reduce the overall cost. 
 
